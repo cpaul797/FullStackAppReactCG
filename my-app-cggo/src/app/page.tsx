@@ -21,7 +21,11 @@ export default function Home() {
             .
           </li>
           <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
+            You can save and see your changes instantly.
+          </li>
+          <li className="tracking-[-.01em]">
+              Or can you? 
+          <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Michael_Stevens_VidCon_2016.jpg" alt="Dinosaur" />
           </li>
         </ol>
 
