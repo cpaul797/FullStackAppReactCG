@@ -27,6 +27,10 @@ export default function Home() {
               Or can you? 
           <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Michael_Stevens_VidCon_2016.jpg" alt="Dinosaur" />
           </li>
+          <li className="tracking-[-.01em]">
+              Hi, binging with babish here. 
+          <img src="https://pyxis.nymag.com/v1/imgs/588/a41/5c13d975333a13f3d1cab2e4c0bc630042-30-binging-with-babbish-grub-diet-2.rsquare.w700.jpg" alt="Dinosaur" />
+          </li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
